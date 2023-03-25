@@ -1,0 +1,10 @@
+/*
+ * Exception:An abnormal situation that arises during the run time of a program is 
+ * called Exception.
+ * 
+ * 
+ * */
+
+public class ExceptionDemo {
+
+

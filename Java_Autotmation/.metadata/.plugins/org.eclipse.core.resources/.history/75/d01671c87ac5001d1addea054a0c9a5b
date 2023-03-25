@@ -1,0 +1,10 @@
+interface ifs1
+{
+	void meth1()
+	{
+		
+	}
+}
+public class InterfaceDemo {
+
+}

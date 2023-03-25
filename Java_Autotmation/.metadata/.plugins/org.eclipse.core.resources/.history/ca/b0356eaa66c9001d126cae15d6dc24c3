@@ -1,0 +1,8 @@
+import java.io.FileOutputStream;
+
+public class FileManagement {
+
+	public static void main(String[] args) {
+		FileOutputStream fos=new FileOutputStream("tops1.txt");
+	}
+}

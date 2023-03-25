@@ -1,0 +1,9 @@
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+public class FileManagement {
+
+	public static void main(String[] args) throws Exception {
+		FileOutputStream fos=new FileOutputStream("tops1.txt");
+	}
+}

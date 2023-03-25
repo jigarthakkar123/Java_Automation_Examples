@@ -1,0 +1,8 @@
+import java.io.FileWriter;
+
+public class FileWriteReadDemo {
+
+	public static void main(String[] args) {
+		FileWriter fWriter=new FileWriter("tops2.txt");
+	}
+}

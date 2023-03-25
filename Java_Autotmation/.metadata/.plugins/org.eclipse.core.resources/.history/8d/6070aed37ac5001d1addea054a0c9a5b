@@ -1,0 +1,11 @@
+interface ifs1
+{
+	void meth1();
+}
+interface ifs2
+{
+	void meth2();
+}
+public class InterfaceDemo {
+
+}

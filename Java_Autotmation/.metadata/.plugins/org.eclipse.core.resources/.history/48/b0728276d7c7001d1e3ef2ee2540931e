@@ -1,0 +1,18 @@
+package com.exception;
+
+import java.util.Scanner;
+
+public class BankDemo {
+
+	public static void main(String[] args) {
+		double amount;
+		Scanner scanner=new Scanner(System.in);
+		System.out.print("Enter Account Number : ");
+		int acno=scanner.nextInt();
+		System.out.print("Enter Customer Name : ");
+		String cname=scanner.next();
+		System.out.print("Enter Initial Balance : ");
+		double balance=scanner.nextDouble();
+		CheckingAccount c=new CheckingAccount(acno,cname,balance);
+	}
+}

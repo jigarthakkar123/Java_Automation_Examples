@@ -1,0 +1,10 @@
+abstract class abs1
+{
+	void meth1()
+	{
+		System.out.println("Meth1");
+	}
+}
+public class AbstractDemo {
+
+}

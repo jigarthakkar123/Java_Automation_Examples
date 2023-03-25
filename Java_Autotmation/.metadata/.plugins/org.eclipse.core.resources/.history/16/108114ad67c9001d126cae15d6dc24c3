@@ -1,0 +1,9 @@
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileWriteReadDemo {
+
+	public static void main(String[] args) throws IOException {
+		FileWriter fWriter=new FileWriter("tops2.txt");
+	}
+}

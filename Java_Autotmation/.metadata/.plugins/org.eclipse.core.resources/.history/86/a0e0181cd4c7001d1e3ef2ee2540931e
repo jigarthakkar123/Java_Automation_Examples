@@ -1,0 +1,16 @@
+package com.exception;
+
+public class CheckingAccount {
+
+	int acno;
+	String cname;
+	double balance;
+	public CheckingAccount(int acno, String cname, double balance) {
+		super();
+		this.acno = acno;
+		this.cname = cname;
+		this.balance = balance;
+	}
+	
+	
+}

@@ -1,0 +1,6 @@
+package com.exception;
+
+public class InSufficientFund extends Exception{
+
+	double amount;
+}

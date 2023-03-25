@@ -1,0 +1,17 @@
+abstract class abs1
+{
+	void meth1()
+	{
+		System.out.println("Meth1");
+	}
+	abstract void meth2();
+}
+class abs2 extends abs1{
+	void meth2() {
+		
+	}
+	
+}
+public class AbstractDemo {
+
+}

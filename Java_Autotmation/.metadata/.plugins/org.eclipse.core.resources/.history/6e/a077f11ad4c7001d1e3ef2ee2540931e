@@ -1,0 +1,9 @@
+package com.exception;
+
+public class CheckingAccount {
+
+	int acno;
+	String cname;
+	double balance;
+	
+}
